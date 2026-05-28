@@ -1,0 +1,4 @@
+src/
+*.html.bak
+.staticrypt.json
+.DS_Store
